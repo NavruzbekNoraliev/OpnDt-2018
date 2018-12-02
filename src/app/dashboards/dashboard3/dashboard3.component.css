@@ -1,0 +1,25 @@
+.size-24 button svg {
+  width: 24px;
+  height: 24px;
+  transform: scale(2);
+}
+table {
+  width: 100%;
+}
+#location mat-icon{
+  margin-top : 0.2vw;
+  margin-right : 0vw;
+
+}
+/* mat-icon{
+  margin-top : 0.2vw;
+  margin-right : 0.2vw;
+} */
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td, th {
+  width: 25%;
+}
